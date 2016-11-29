@@ -83,7 +83,7 @@ Cache.prototype.addAll||(Cache.prototype.addAll=function(t){function e(t){this.n
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["images/logo.svg","2222b705d5584906fc70dabff7e51f0b"],["images/speeddial.png","1a82c0eebcea85f0012188a007d86eb6"],["index.html","13bd9d5d358bbe81fe8c66b1a13b9c85"]];
+var PrecacheConfig = [["images/logo.png","8e4906c91d2aca6b98307b11a9fefc28"],["images/speeddial.png","1a82c0eebcea85f0012188a007d86eb6"],["index.html","0cf11a13b0f0a9ba7b34e31abcbc29a3"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1-sw-precache-' + (self.registration ? self.registration.scope : '') + '-';
 
