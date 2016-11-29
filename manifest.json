@@ -4,6 +4,7 @@
   "start_url": "index.html?homescreen=1",
   "display": "standalone",
   "background_color": "#fff",
+  "theme_color": "#5BBA8B",
   "description": "Meetup in Madrid!",
   "icons": [{
     "src": "images/logo.png",
