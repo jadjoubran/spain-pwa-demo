@@ -1,0 +1,13 @@
+{
+  "name": "MadridJS",
+  "short_name": "MadridJS",
+  "start_url": "index.html?homescreen=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Meetup in Madrid!",
+  "icons": [{
+    "src": "images/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }]
+}
