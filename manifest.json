@@ -1,11 +1,11 @@
 {
-  "name": "MadridJS",
-  "short_name": "MadridJS",
+  "name": "Namosaurus",
+  "short_name": "Namosaurus",
   "start_url": "index.html?homescreen=1",
   "display": "standalone",
   "background_color": "#ECECEC",
   "theme_color": "#5BBA8B",
-  "description": "Meetup in Madrid!",
+  "description": "Meetup in spain!",
   "orientation": "portrait",
   "icons": [{
     "src": "images/logo.png",
