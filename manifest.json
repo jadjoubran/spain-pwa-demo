@@ -3,9 +3,10 @@
   "short_name": "MadridJS",
   "start_url": "index.html?homescreen=1",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#ECECEC",
   "theme_color": "#5BBA8B",
   "description": "Meetup in Madrid!",
+  "orientation": "portrait",
   "icons": [{
     "src": "images/logo.png",
     "sizes": "98x98",
